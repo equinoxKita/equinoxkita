@@ -1,13 +1,39 @@
-<h1 align="center">Hi 👋, I'm equinoxKitas</h1>
-<h3 align="center">A Random Electrical Student Part time Learning Programming</h3>
+# Hi there, I'm equinoxKita! 👋
 
-- 🔭 I’m currently working on **ZelpStore Private Project**
+### ⚡ Electrical Engineering Student | Node.js Enthusiast
 
-- ⚡ Fun fact **I dont know about me :p**
+I am an Electrical Engineering student from Malaysia who is passionate about bridging the gap between hardware and software. While my studies focus on circuits and power systems, I spend my free time building scalable applications and exploring the world of backend development using Node.js.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.electronjs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/electron/electron-original.svg" alt="electron" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> </p>
+### 🛠️ My Tech Stack
+
+- **Electrical:** Circuit Design, Power Systems, Microcontrollers (Arduino/ESP32).
+- **Backend:** Node.js, Express.js.
+- **Tools & OS:** CachyOS (Arch Linux), Git, Docker, Pterodactyl Panel.
+- **Frontend:** Tailwind CSS (Learning in progress).
+
+---
+
+### 📈 What I'm Currently Working On
+
+- 🔧 **Pterodactyl Billing System:** Developing a custom billing and management panel for game servers.
+- 🤖 **IoT Integration:** Exploring ways to connect electrical sensors to Node.js backends.
+- 📚 **SPM/SKM Prep:** Balancing my technical skills with my academic certifications.
+
+---
+
+### 📊 GitHub Stats
+
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
+
+---
+
+### 🤝 Let's Connect!
+
+- **Discord:** [Username Anda]
+- **LinkedIn:** [Link Profil Anda]
+- **Email:** [Email Anda]
+
+*"Combining the power of electricity with the logic of code."*
