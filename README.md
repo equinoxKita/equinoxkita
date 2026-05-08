@@ -1,39 +1,44 @@
-# Hi there, I'm equinoxKita! 👋
+# ⚡ Welcome to my Stable! 👋
 
-### ⚡ Electrical Engineering Student | Node.js Enthusiast
+### 🔧 SKM 2 Electrical Student | 🟢 Node.js Enthusiast | 🏇 Trainer
 
-I am an Electrical Engineering student from Malaysia who is passionate about bridging the gap between hardware and software. While my studies focus on circuits and power systems, I spend my free time building scalable applications and exploring the world of backend development using Node.js.
-
----
-
-### 🛠️ My Tech Stack
-
-- **Electrical:** Circuit Design, Power Systems, Microcontrollers (Arduino/ESP32).
-- **Backend:** Node.js, Express.js.
-- **Tools & OS:** CachyOS (Arch Linux), Git, Docker, Pterodactyl Panel.
-- **Frontend:** Tailwind CSS (Learning in progress).
+I am an Electrical student (SKM Level 2) from Malaysia, balancing the world of physical wiring with the logic of backend development. While I work with circuits by day, I spend my nights building applications with **Node.js**.
 
 ---
 
-### 📈 What I'm Currently Working On
+### 🛠️ Technical Paddock
 
-- 🔧 **Pterodactyl Billing System:** Developing a custom billing and management panel for game servers.
-- 🤖 **IoT Integration:** Exploring ways to connect electrical sensors to Node.js backends.
-- 📚 **SPM/SKM Prep:** Balancing my technical skills with my academic certifications.
+- **Electrical:** Single Phase Wiring, Electrical Maintenance (SKM Level 2).
+- **Programming:** Node.js, Express.js, Xendit Integration.
+- **System Admin:** Pterodactyl Panel, Linux (CachyOS/Arch).
+- **Current Project:** Building a custom billing panel for Pterodactyl.
 
 ---
 
-### 📊 GitHub Stats
+### 🏇 Training & Hobbies
+
+- **Uma Musume:** Huge fan of the anime and the game. Currently mastering the **Beyond Dreams** scenario.
+- **Gaming:** Linux gaming on CachyOS.
+- **Goal:** To combine my electrical knowledge with IoT and automation using Node.js.
+
+---
+
+### ✨ My "Team" (Uma Musume)
+
+- **Favorite Character:** Kitasan Black.
+- **Scenario:** Beyond Dreams (Aiming for those UA/US ranks!).
+- **Anime:** Season 3 & Road to the Top , Beginning new era.
+
+---
+
+### 📊 Performance Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight)
 
 ---
 
-### 🤝 Let's Connect!
+### 🤝 Let's Connect
 
-- **Discord:** [Username Anda]
-- **LinkedIn:** [Link Profil Anda]
-- **Email:** [Email Anda]
+- **Location:** Kuala Lumpur, Malaysia 🇲🇾
 
-*"Combining the power of electricity with the logic of code."*
+*"Wiring the future, one line of code at a time."*
