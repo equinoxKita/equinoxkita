@@ -2,7 +2,7 @@
 
 ### 🔧 SKM 2 Electrical Student | 🟢 Node.js Enthusiast | 🏇 Trainer
 
-I am an Electrical student (SKM Level 2) from Malaysia, balancing the world of physical wiring with the logic of backend development. While I work with circuits by day, I spend my nights building applications with **Node.js**.
+I am an Electrical student (SKM Level 2) from Malaysia, balancing the world of physical wiring with the logic of backend development. While I work with circuits by day, I spend my free time building applications with **Node.js**.
 
 ---
 
